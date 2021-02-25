@@ -7,3 +7,7 @@ Finnish Basketball Play By Play Scraper
 	Includes Lineup Summaries/PlusMinusEvaluations
   
 Polish Basketball Play By Play Scraper
+  
+	Website: https://plk.pl
+  
+	Includes Lineup Summaries/PlusMinusEvaluations
